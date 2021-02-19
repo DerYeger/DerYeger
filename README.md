@@ -1,2 +1,2 @@
-![DerYeger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerYeger&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=darcula)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerYeger&layout=compact&hide_border=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+![DerYeger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerYeger&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerYeger&layout=compact&hide_border=true&title_color=56A1F7&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
