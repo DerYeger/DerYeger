@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
     <a href="https://jan-mueller.at">About me</a> ·
-    <a href="https://jan-mueller.at/projects">Projects</a> ·
     <a href="https://jan-mueller.at/blog">Blog</a> ·
+    <a href="https://jan-mueller.at/files">More</a> ·
     <a href="https://www.npmjs.com/~yeger">NPM</a> ·
     <a href="https://www.xing.com/profile/Jan_Mueller1092/cv">XING</a>
   </samp>
