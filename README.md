@@ -17,7 +17,3 @@ ___
   I'm active in both frontend and backend development and always aim to improve my skills.
   When I'm not busy exploring the latest frameworks and libraries, I also delve into DevOps and automation using GitHub Actions.
 </p>
-<p>
-  Currently, I am studying <i>Software Engineering & Internet Computing</i> at the TU Wien.
-  In parallel, I am a working student at Senacor Technologies AG.
-</p>
